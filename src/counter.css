@@ -1,0 +1,16 @@
+.heading{
+   text-align: center;
+   justify-content: center;
+   margin: 0;
+}
+
+    .head-container {
+        background-color: rgb(16, 234, 241);
+        padding: 20px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+      
+.form-control{
+float: right;
+}

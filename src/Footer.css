@@ -1,0 +1,29 @@
+.social-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: black;
+  }
+  .social-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+    padding: 0;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background-color: transparent;
+    color: #555555;
+    font-size: 24px;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .social-button:hover {
+    color: #f30d0d;
+  }  
+  .matter{
+    color: rgb(221, 8, 36);
+  }
